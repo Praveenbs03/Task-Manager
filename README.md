@@ -114,7 +114,7 @@ Ideas for future improvements:
  
 ## Screenshots
 
-![Task List](images/task1.png)
-![Add Task](images/task2.png)
-![Edit Task](images/task3.png)
+![Task List](assets/images/task1.png)
+![Add Task](assets/images/task2.png)
+![Edit Task](assets/images/task3.png)
 
